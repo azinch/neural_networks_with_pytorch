@@ -1,6 +1,6 @@
 # neural_networks_with_pytorch
 
-Pytorch demo.
+Demo project.
 
 ## Content
   
